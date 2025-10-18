@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\An2 Sem1\\proiecte c#\\WeatherApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|D:\\An2 Sem1\\proiecte c#\\WeatherApp\\weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|D:\\An2 Sem1\\proiecte c#\\WeatherApp\\weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|d:\\an2 sem1\\proiecte c#\\weatherapp\\weatherapp\\modelweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\modelweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|d:\\an2 sem1\\proiecte c#\\weatherapp\\weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|d:\\an2 sem1\\proiecte c#\\weatherapp\\weatherapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|D:\\An2 Sem1\\proiecte c#\\WeatherApp\\weatherapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|d:\\an2 sem1\\proiecte c#\\weatherapp\\weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8375EA72-BEB6-47DE-ADD8-1C96DC545C56}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\An2 Sem1\\proiecte c#\\WeatherApp\\WeatherApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WeatherApp\\Form1.Designer.cs",
@@ -43,20 +43,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\An2 Sem1\\proiecte c#\\WeatherApp\\WeatherApp\\Form1.cs",
               "RelativeDocumentMoniker": "WeatherApp\\Form1.cs",
               "ToolTip": "D:\\An2 Sem1\\proiecte c#\\WeatherApp\\WeatherApp\\Form1.cs",
               "RelativeToolTip": "WeatherApp\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEEAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T12:43:26.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ModelWeather.cs",
               "DocumentMoniker": "D:\\An2 Sem1\\proiecte c#\\WeatherApp\\WeatherApp\\ModelWeather.cs",
               "RelativeDocumentMoniker": "WeatherApp\\ModelWeather.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\An2 Sem1\\proiecte c#\\WeatherApp\\WeatherApp\\Form1.cs",
               "RelativeDocumentMoniker": "WeatherApp\\Form1.cs",

@@ -121,7 +121,7 @@ namespace WeatherApp
             // 
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Cooper Black", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(630, 372);
+            this.label6.Location = new System.Drawing.Point(633, 416);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(186, 53);
             this.label6.TabIndex = 7;
@@ -137,6 +137,7 @@ namespace WeatherApp
             this.label7.Size = new System.Drawing.Size(186, 53);
             this.label7.TabIndex = 8;
             this.label7.Text = "Pressure";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // condition_label
             // 
@@ -164,7 +165,7 @@ namespace WeatherApp
             // 
             this.wind_label.BackColor = System.Drawing.Color.DarkKhaki;
             this.wind_label.Font = new System.Drawing.Font("Cooper Black", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wind_label.Location = new System.Drawing.Point(632, 425);
+            this.wind_label.Location = new System.Drawing.Point(632, 453);
             this.wind_label.Name = "wind_label";
             this.wind_label.Size = new System.Drawing.Size(151, 51);
             this.wind_label.TabIndex = 12;
@@ -174,7 +175,7 @@ namespace WeatherApp
             // 
             this.pressure_label.BackColor = System.Drawing.Color.DarkKhaki;
             this.pressure_label.Font = new System.Drawing.Font("Cooper Black", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.pressure_label.Location = new System.Drawing.Point(632, 584);
+            this.pressure_label.Location = new System.Drawing.Point(632, 566);
             this.pressure_label.Name = "pressure_label";
             this.pressure_label.Size = new System.Drawing.Size(151, 51);
             this.pressure_label.TabIndex = 13;

@@ -60,13 +60,11 @@ namespace WeatherApp
                 pressure_label.Text=Info.main.pressure.ToString()+ " hPa";
             }
         }
-
-        DateTime convertDateTime(long miliseconds)
+        DateTime convertDateTime(long seconds)
         {
-            DateTime day = new DateTime(1970, 1, 1, 0, 0, 0, 0, System.DateTimeKind.Utc).ToLocalTime();//Aflam data de la 0 in format utc
-            day = day.AddMilliseconds(miliseconds).ToLocalTime(); //adaugam milisecundele primite de la api
-            return day;
-
+            
+            DateTimeOffset dateTimeOffset = DateTimeOffset.FromUnixTimeSeconds(seconds);
+            return dateTimeOffset.ToLocalTime().DateTime;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -75,6 +73,11 @@ namespace WeatherApp
         }
 
         private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
         {
 
         }

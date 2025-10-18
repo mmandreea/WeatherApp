@@ -1,0 +1,14 @@
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe.config
+D:\An2 Sem1\proiecte c#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.Up2Date

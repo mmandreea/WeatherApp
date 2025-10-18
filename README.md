@@ -16,3 +16,5 @@ convertDateTime(): A utility function that converts the UNIX Timestamp (seconds)
 Data Display: Logic will update UI controls (condition_label, details_label, picIcon, etc.) with the processed weather information.
 2. ModelWeather.cs
 This file contains the data model classes required for JSON deserialization. The nested classes (coord, weather, main, wind, sys, and root) mirror the exact hierarchical structure of the OpenWeatherMap JSON response. 
+
+<img width="1172" height="877" alt="image" src="https://github.com/user-attachments/assets/7f68377a-1200-4c30-82d2-307d19894436" />
